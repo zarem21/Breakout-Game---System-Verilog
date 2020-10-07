@@ -3,4 +3,5 @@ This version of Breakout that we implemented, is a single player game that has o
 
 The demonstrations below are created by my lab partner 
 Link to brief DEMO: https://drive.google.com/file/d/1gL8194jqigkFkuEVFNLQLLOTgaAWnThU/view?usp=sharing
+
 Link to Full DEMO: https://drive.google.com/file/d/1cIJjaEUw8DzCNWlmfwkVHgRa61dTYlJX/view?usp=sharing
